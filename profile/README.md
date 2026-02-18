@@ -1,4 +1,4 @@
-## Hi there 👋
+## Page for LongHaulC2. Currently in development, check back soon. 
 
 <!--
 
