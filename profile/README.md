@@ -1,5 +1,10 @@
 ## Page for LongHaulC2. Currently in development, check back soon. 
 
+## Resources: 
+
+ - [Docs](docs.longhaulc2.com)
+ - [YT](docs.longhaulc2.com)
+
 <!--
 
 **Here are some ideas to get you started:**
