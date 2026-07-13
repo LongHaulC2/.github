@@ -3,7 +3,7 @@
 ## Resources: 
 
  - [Docs](docs.longhaulc2.com)
- - [YT](docs.longhaulc2.com)
+ - [YouTube](docs.longhaulc2.com)
 
 <!--
 
