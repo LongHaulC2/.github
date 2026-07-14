@@ -1,4 +1,6 @@
-# LongHaulC2. v1.0.0-Beta out now!
+# LongHaulC2
+---
+v1.0.0-Beta out now: [Releases](https://github.com/LongHaulC2/LongHaulC2/releases)
 
 ## Resources: 
 
