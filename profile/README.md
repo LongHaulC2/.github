@@ -8,9 +8,9 @@ v1.0.0-Beta out now: [Releases](https://github.com/LongHaulC2/LongHaulC2/release
  - [YouTube](docs.longhaulc2.com)
 
 # Pics:
-<img width="1912" height="1063" alt="image" src="https://github.com/user-attachments/assets/25c86186-8345-48dc-a5ed-018feace4fcd" />
-<img width="1911" height="1063" alt="image" src="https://github.com/user-attachments/assets/3448a8ce-4a62-41e2-9caf-fcd3c391983a" />
-<img width="1914" height="1066" alt="image" src="https://github.com/user-attachments/assets/ac0f13d8-8d3c-479c-9aca-9febe658bf65" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/25c86186-8345-48dc-a5ed-018feace4fcd" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/3448a8ce-4a62-41e2-9caf-fcd3c391983a" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/ac0f13d8-8d3c-479c-9aca-9febe658bf65" />
 
 
 <!--
