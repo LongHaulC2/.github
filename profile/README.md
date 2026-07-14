@@ -1,4 +1,4 @@
-## Page for LongHaulC2. Currently in development, check back soon. 
+# LongHaulC2. v1.0.0-Beta out now!
 
 ## Resources: 
 
