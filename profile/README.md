@@ -1,4 +1,5 @@
 <img width="2000" height="400" alt="LongHaulC2" src="https://github.com/user-attachments/assets/c7637a24-2e49-49f8-998a-d2e01427778a" />
+
 ---
 v1.1.0-Beta out now: [Releases](https://github.com/LongHaulC2/LongHaulC2/releases)
 
